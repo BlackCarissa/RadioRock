@@ -1,0 +1,134 @@
+.frame1-container {
+  z-index: 100;
+  min-height: 100vh;
+}
+.frame1-frame1 {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.frame1-v15 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-rectangle1 {
+  top: 35px;
+  left: 45px;
+  width: 885px;
+  height: 855px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: transparent;
+  background-size: cover;
+  justify-content: center;
+  background-position: center;
+}
+.frame1-form {
+  width: 861px;
+  height: 837px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.frame1-button {
+  margin-top: 40px;
+}
+.frame1-rectangle2 {
+  top: 35px;
+  left: 960px;
+  width: 928px;
+  height: 855px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 133px;
+}
+.frame1-rectangle3 {
+  top: 924px;
+  left: -14px;
+  width: 1935px;
+  height: 156px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-text03 {
+  top: 1005px;
+  left: 846px;
+  color: rgba(255, 255, 255, 1);
+  width: 230px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Exo 2;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-text08 {
+  top: 927px;
+  left: 778px;
+  color: rgba(255, 255, 255, 1);
+  width: 366px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Exo 2;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.frame1-image20230402142828124 {
+  top: 952px;
+  left: 991px;
+  width: 70px;
+  height: 53px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-image20230402142543685 {
+  top: 952px;
+  left: 846px;
+  width: 72px;
+  height: 53px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-rectangle4 {
+  top: 953px;
+  left: 45px;
+  width: 317px;
+  height: 73px;
+  position: absolute;
+  border-color: transparent;
+}
+.frame1-logobutton {
+  top: 971px;
+  left: 20px;
+  width: 370px;
+  height: 38px;
+  position: absolute;
+  border-color: transparent;
+}

@@ -1,0 +1,42 @@
+:root{
+    --color2: #131313;
+    --color3: #333;
+}
+@font-face {
+    font-family: 'Matricia';
+    src: local('Matricia Dos'), local('Matricia-Dos'),
+        url('fonts/Matricia-Dos.woff2') format('woff2'),
+        url('fonts/Matricia-Dos.woff') format('woff'),
+        url('fonts/Matricia-Dos.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+#first_part{padding: 50px;}
+#second_part,#third_part,#forma{
+    padding: 50px 0;
+    z-index: 20;
+}
+.first_part, .footer {padding: 10px; background-image: url(img/fon.jpg) ;
+}
+#fourth_part {background-color:whitesmoke;
+}
+
+#third_part {background-color: var(--color2);}
+#forma {background-color: var(--color2);}
+.avatar {
+         width: 225px;
+         height: 225px;
+         border-radius: 50%;
+}
+.btn-itd {
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: white;
+}
+#fourth_part{padding: 20px;}
+h3.text-center.text-white{padding: 25px;}
+h3.text-center.text-black{padding: 10px;}
+.Text_sitename{font-family: 'Matricia'; color: rgb(255, 251, 0); font-size: 50px;}
+.Text_subsitename{font-family: 'Matricia'; color: rgb(255, 251, 0); font-size: 30px;}
+
